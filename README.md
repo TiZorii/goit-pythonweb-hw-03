@@ -1,4 +1,4 @@
-### Topic 3. Homework
+## Topic 3. Homework
 
 Your goal is to implement the simplest web application. Use the following files from this repository: [https://github.com/GoIT-Python-Web/FullStack-Web-Development-hw3](https://github.com/GoIT-Python-Web/FullStack-Web-Development-hw3).
 
